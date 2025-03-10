@@ -12,6 +12,11 @@ Data Transfer Using Stack
 Data is pushed onto the stack from registers.
 The stack pointer (SP) adjusts accordingly.
 Data is then popped into another register for processing or transfer.
+
+# Diagram
+![Uploading WhatsApp Image 2025-03-10 at 09.37.04_c2210edb.jpg…]()
+
+
 # Program:
 ~~~
 MOV AX, BX
