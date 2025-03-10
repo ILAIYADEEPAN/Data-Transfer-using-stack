@@ -14,7 +14,8 @@ The stack pointer (SP) adjusts accordingly.
 Data is then popped into another register for processing or transfer.
 
 # Diagram
-![Uploading WhatsApp Image 2025-03-10 at 09.37.04_c2210edb.jpg…]()
+![workshop](https://github.com/user-attachments/assets/df5473bd-fed2-47a0-87ae-0210560f634a)
+
 
 
 # Program:
